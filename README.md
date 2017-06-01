@@ -3,4 +3,4 @@ test
 
 Hi everybody！
 
-this just for test.
+It's just for test.
